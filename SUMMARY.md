@@ -1,25 +1,19 @@
-<<<<<<< HEAD
-# Summary
+# Table of contents
 
-* [gitbook](gitbook.md)
+* [gitbook](README.md)
+* [Intiroduction](<README (1).md>)
 
-----
+## 4月
 
-* [Intiroduction](README.md)
+* [周报](4-yue/zhou-bao/README.md)
+  * [2023.04.24-2023.04.24.04.28](2023.04.24～2023.04.28周报-孟迪.md)
+  * [Section1.1](4-yue/zhou-bao/section1.1.md)
+  * [Section1.2](4-yue/zhou-bao/section1.2.md)
 
-### 4月
-
-* [周报](周报/README.md)
-    * [2023.04.24-2023.04.24.04.28](2023.04.24～2023.04.28周报-孟迪.md)
-    * [Section1.1](周报/section1.1.md)
-    * [Section1.2](周报/section1.2.md)
-
-### chapter2
+## chapter2
 
 * [Chapter2](chapter2/README.md)
 
-=======
-# Table of contents
+***
 
-* [Intiroduction](README.md)
->>>>>>> 302a865cf6cdd64c195be80de02995714937bfc6
+*
