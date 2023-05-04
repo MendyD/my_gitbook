@@ -7,12 +7,12 @@
 
 * [Intiroduction](README.md)
 
-### 4月周报
+### 4月
 
-* [Chapter1](chapter1/README.md)
+* [周报](周报/README.md)
     * [2023.04.24-2023.04.24.04.28](2023.04.24～2023.04.28周报-孟迪.md)
-    * [Section1.1](chapter1/section1.1.md)
-    * [Section1.2](chapter1/section1.2.md)
+    * [Section1.1](周报/section1.1.md)
+    * [Section1.2](周报/section1.2.md)
 
 ### chapter2
 
