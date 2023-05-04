@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Summary
 
 * [Intiroduction](README.md)
@@ -6,3 +7,8 @@
     * [Section1.2](chapter1/section1.2.md)
 * [Chapter2](chapter2/README.md)
 
+=======
+# Table of contents
+
+* [Introduction](README.md)
+>>>>>>> 302a865cf6cdd64c195be80de02995714937bfc6
